@@ -541,4 +541,4 @@ BEGIN
   RAISE NOTICE '✅ Índices para performance';
   RAISE NOTICE '';
   RAISE NOTICE 'PRÓXIMO PASO: Probar la aplicación NeuroLog';
-END $$;
+END $$;   
